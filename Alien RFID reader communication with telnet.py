@@ -1,7 +1,7 @@
 import telnetlib
 
-HOST = "192.168.1.100"
-PORT = "23"
+HOST = your-host
+PORT = your-port
 
 username = "alien" 
 password = "password"
